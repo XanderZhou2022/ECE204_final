@@ -1,0 +1,658 @@
+{
+    "CANE: Context-Aware Network Embedding for Relation Modeling": {
+        "is_accepted": true,
+        "citation_num": 158
+    },
+    "Weakly Supervised Cross-Lingual Named Entity Recognition via Effective Annotation and Representation Projection": {
+        "is_accepted": true,
+        "citation_num": 135
+    },
+    "Discovering Correspondences between Multiple Languages by MDL": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Learning a Neural Semantic Parser from User Feedback": {
+        "is_accepted": true,
+        "citation_num": 89
+    },
+    "Morphological Inflection Generation with Hard Monotonic Attention": {
+        "is_accepted": true,
+        "citation_num": 183
+    },
+    "Probabilistic Regular Graph Languages": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Automatic Induction of Synsets from a Graph of Synonyms": {
+        "is_accepted": true,
+        "citation_num": 145
+    },
+    "Zero-Shot Relation Extraction via Reading Comprehension": {
+        "is_accepted": true,
+        "citation_num": 34
+    },
+    "Clustering Paraphrases for Substitutability": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Universal Dependencies Parsing for Colloquial Singaporean English": {
+        "is_accepted": true,
+        "citation_num": 159
+    },
+    "Here's My Point: Argumentation Mining with Pointer Networks": {
+        "is_accepted": true,
+        "citation_num": 143
+    },
+    "A Multigraph-based Model for Overlapping Entity Recognition": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Determining Gains Acquired from Word Embedding Quantitatively Using Discrete Distribution Clustering": {
+        "is_accepted": true,
+        "citation_num": 169
+    },
+    "Parsing for Universal Dependencies without training": {
+        "is_accepted": true,
+        "citation_num": 22
+    },
+    "Identifying 1950s American Jazz Musicians: Fine-Grained IsA Extraction via Modifier Composition": {
+        "is_accepted": true,
+        "citation_num": 192
+    },
+    "A Corpus of Annotated Revisions for Studying Argumentative Writing": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Random Positive-Only Projections: PPMI-Enabled Incremental Semantic Space Construction": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Delexicalized and Minimally Supervised Parsing on Universal Dependencies": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Ngram2vec: Learning Improved Word Representations from Ngram Co-occurrence Statistics": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Learning to Skim Text": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Enhanced LSTM for Natural Language Inference": {
+        "is_accepted": true,
+        "citation_num": 200
+    },
+    "Event Linking with Sentential Features from Convolutional Neural Networks": {
+        "is_accepted": true,
+        "citation_num": 150
+    },
+    "A Full Non-Monotonic Transition System for Unrestricted Non-Projective Parsing": {
+        "is_accepted": true,
+        "citation_num": 180
+    },
+    "Neural Belief Tracker: Data-Driven Dialogue State Tracking": {
+        "is_accepted": true,
+        "citation_num": 220
+    },
+    "Selective Encoding for Abstractive Sentence Summarization": {
+        "is_accepted": true,
+        "citation_num": 190
+    },
+    "Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "A Syntactic Neural Model for General-Purpose Code Generation": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "A Transition-Based Directed Acyclic Graph Parser for UCCA": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Multimodal Word Distributions": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Exploring Vector Spaces for Semantic Relations": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "From BLEU to RAINBOW: Why We Need New Metrics for NLG.": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme": {
+        "is_accepted": true,
+        "citation_num": 95
+    },
+    "Leveraging Behavioral and Social Information for Weakly Supervised Collective Classification of Political Discourse on Twitter": {
+        "is_accepted": true,
+        "citation_num": 60
+    },
+    "Tandem Anchoring: a Multiword Anchor Approach for Interactive Topic Modeling": {
+        "is_accepted": true,
+        "citation_num": 70
+    },
+    "Universal Semantic Parsing": {
+        "is_accepted": true,
+        "citation_num": 80
+    },
+    "Vancouver Welcomes You! Minimalist Location Metonymy Resolution": {
+        "is_accepted": true,
+        "citation_num": 90
+    },
+    "Fast and Accurate Sequence Labeling with Iterated Dilated Convolutions": {
+        "is_accepted": true,
+        "citation_num": 140
+    },
+    "Morph-fitting: Fine-Tuning Word Vector Spaces with Simple Language-Specific Rules": {
+        "is_accepted": true,
+        "citation_num": 110
+    },
+    "Compression of Neural Machine Translation Models via Pruning": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Gated Self-Matching Networks for Reading Comprehension and Question Answering": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "End-to-End Neural Relation Extraction with Global Optimization": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Gated-Attention Readers for Text Comprehension": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Investigating Different Context Types and Representations for Learning Word Embeddings": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Neural AMR: Sequence-to-Sequence Models for Parsing and Generation": {
+        "is_accepted": true,
+        "citation_num": 62
+    },
+    "Obtaining referential word meanings from visual and distributional information: Experiments on object naming": {
+        "is_accepted": true,
+        "citation_num": 45
+    },
+    "Connecting the dots: Summarizing and Structuring Large Document Collections Using Concept Maps": {
+        "is_accepted": true,
+        "citation_num": 38
+    },
+    "Identifying Products in Online Cybercrime Marketplaces: A Dataset and Fine-grained Domain Adaptation Task": {
+        "is_accepted": true,
+        "citation_num": 29
+    },
+    "Constructing Semantic Hierarchies via Fusion Learning Architecture": {
+        "is_accepted": true,
+        "citation_num": 33
+    },
+    "Other Topics You May Also Agree or Disagree: Modeling Inter-Topic Preferences using Tweets and Matrix Factorization": {
+        "is_accepted": true,
+        "citation_num": 27
+    },
+    "Learning when to trust distant supervision: An application to low-resource POS tagging using cross-lingual projection": {
+        "is_accepted": true,
+        "citation_num": 41
+    },
+    "Improving sentiment classification with task-specific data": {
+        "is_accepted": true,
+        "citation_num": 36
+    },
+    "Creating Training Corpora for NLG Micro-Planners": {
+        "is_accepted": true,
+        "citation_num": 48
+    },
+    "Coreference in Wikipedia: Main Concept Resolution": {
+        "is_accepted": true,
+        "citation_num": 39
+    },
+    "Volatility Prediction using Financial Disclosures Sentiments with Word Embedding-based IR Models": {
+        "is_accepted": true,
+        "citation_num": 31
+    },
+    "Sentence Pair Scoring: Towards Unified Framework for Text Comprehension": {
+        "is_accepted": true,
+        "citation_num": 34
+    },
+    "Neural Modeling of Multi-Predicate Interactions for Japanese Predicate Argument Structure Analysis": {
+        "is_accepted": true,
+        "citation_num": 28
+    },
+    "Leveraging Cognitive Features for Sentiment Analysis": {
+        "is_accepted": true,
+        "citation_num": 37
+    },
+    "Neural End-to-End Learning for Computational Argumentation Mining": {
+        "is_accepted": true,
+        "citation_num": 42
+    },
+    "Cross-Context Lexical Analysis": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Sarcasm SIGN: Interpreting Sarcasm with Sentiment Based Monolingual Machine Translation": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "FOIL it! Find One mismatch between Image and Language caption": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Exploring Prediction Uncertainty in Machine Translation Quality Estimation": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Neural Machine Translation via Binary Code Prediction": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Greedy, Joint Syntactic-Semantic Parsing with Stack LSTMs": {
+        "is_accepted": true,
+        "citation_num": 187
+    },
+    "Towards an Automatic Turing Test: Learning to Evaluate Dialogue Responses": {
+        "is_accepted": true,
+        "citation_num": 220
+    },
+    "One-Shot Neural Cross-Lingual Transfer for Paradigm Completion": {
+        "is_accepted": true,
+        "citation_num": 95
+    },
+    "Understanding Image and Text Simultaneously: a Dual Vision-Language Machine Comprehension Task": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Automatic Annotation and Evaluation of Error Types for Grammatical Error Correction": {
+        "is_accepted": true,
+        "citation_num": 110
+    },
+    "A Geometric Contextual Model for Identifying Unseen Metaphors": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "A* CCG Parsing with a Supertag and Dependency Factored Model": {
+        "is_accepted": true,
+        "citation_num": 130
+    },
+    "Redefining part-of-speech classes with distributional semantic models": {
+        "is_accepted": true,
+        "citation_num": 80
+    },
+    "Automatically Generating Rhythmic Verse with Neural Networks": {
+        "is_accepted": true,
+        "citation_num": 140
+    },
+    "When a Red Herring is Not a Red Herring: Using Compositional Methods to Detect Non-Compositional Phrases": {
+        "is_accepted": true,
+        "citation_num": 90
+    },
+    "An Interpretable Knowledge Transfer Model for Knowledge Base Completion": {
+        "is_accepted": true,
+        "citation_num": 120
+    },
+    "ShapeWorld: A new test methodology for multimodal language understanding": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Enriching Complex Networks with Word Embeddings for Detecting Mild Cognitive Impairment from Speech Transcripts": {
+        "is_accepted": true,
+        "citation_num": 60
+    },
+    "Semi-supervised Convolutional Networks for Translation Adaptation with Tiny Amount of In-domain Data": {
+        "is_accepted": true,
+        "citation_num": 70
+    },
+    "DRL-Sense: Deep Reinforcement Learning for Multi-Sense Word Representations": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Learning Cognitive Features from Gaze Data for Sentiment and Sarcasm Classification using Convolutional Neural Network": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Verb Physics: Relative Physical Knowledge of Actions and Objects": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Scalable Bayesian Learning of Recurrent Neural Networks for Language Modeling": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Measuring Topic Quality using Word Buckets": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Deep Keyphrase Generation": {
+        "is_accepted": true,
+        "citation_num": 250
+    },
+    "Learning Character-level Compositionality with Visual Features": {
+        "is_accepted": true,
+        "citation_num": 180
+    },
+    "Identifying Temporal Orientation of Word Senses": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Exploring Macro Discourse Structure with Macro-micro Unified Primary-secondary Relationship": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Event Factuality Identification via Deep Neural Networks": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Neural Word Segmentation with Rich Pretraining": {
+        "is_accepted": true,
+        "citation_num": 210
+    },
+    "App2Check and Tweet2Check: Machine Learning-based Tools for Sentiment Analysis of Apps Reviews and Tweets": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "A Teacher-Student Framework for Zero-Resource Neural Machine Translation": {
+        "is_accepted": true,
+        "citation_num": 190
+    },
+    "Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access": {
+        "is_accepted": true,
+        "citation_num": 220
+    },
+    "Semi-supervised Sequence Tagging with Bidirectional Language Models": {
+        "is_accepted": true,
+        "citation_num": 230
+    },
+    "Time Expression Analysis and Recognition Using Syntactic Token Types and General Heuristic Rules": {
+        "is_accepted": true,
+        "citation_num": 140
+    },
+    "Topical Coherence in LDA-based Models through Induced Segmentation": {
+        "is_accepted": true,
+        "citation_num": 160
+    },
+    "AI-based Japanese Short-answer Scoring and Support System": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Interpreting Neural Networks to Understand Written Justifications in Values-Affirmation Essays": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Phrasal Recurrent Neural Network": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Handling Cold-Start Problem in Review Spam Detection by Jointly Embedding Texts and Behaviors": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Learning Bilingual Word Embeddings with (Almost) No Bilingual Data": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Rare Entity Prediction: Language Understanding with External Knowledge using Hierarchical LSTMs": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Joint CTC/Attention Decoding for End-to-End Speech Recognition": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "A Neural Local Coherence Model": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Cross-Lingual Named Entity Recognition via Wikification": {
+        "is_accepted": true,
+        "citation_num": 219
+    },
+    "Adversarial Multi-task Learning for Text Classification": {
+        "is_accepted": true,
+        "citation_num": 1
+    },
+    "Broad-Coverage Semantic Parsing: A Transition-Based Approach": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Ontology-Aware Token Embeddings for Prepositional Phrase Attachment": {
+        "is_accepted": true,
+        "citation_num": 191
+    },
+    "A New Formula for Vietnamese Text Readability Assessment": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Robust Incremental Neural Semantic Graph Parsing": {
+        "is_accepted": true,
+        "citation_num": 112
+    },
+    "Cross-lingual Name Tagging and Linking for 282 Languages": {
+        "is_accepted": true,
+        "citation_num": 178
+    },
+    "Generating and Exploiting Large-scale Pseudo Training Data for Zero Pronoun Resolution": {
+        "is_accepted": true,
+        "citation_num": 101
+    },
+    "Deep Character-Level Neural Machine Translation By Learning Morphology": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Lexically Constrained Decoding for Sequence Generation Using Grid Beam Search": {
+        "is_accepted": true,
+        "citation_num": 141
+    },
+    "Neural Disambiguation of Causal Lexical Markers based on Context": {
+        "is_accepted": true,
+        "citation_num": 27
+    },
+    "Chunk-based Decoder for Neural Machine Translation": {
+        "is_accepted": true,
+        "citation_num": 174
+    },
+    "Generating Memorable Mnemonic Encodings of Numbers": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Knowledge as a Teacher: Knowledge-Guided Structural Attention Networks": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Automatically Labeled Data Generation for Large Scale Event Extraction": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Adversarial Multi-Criteria Learning for Chinese Word Segmentation": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Learning attention for historical text normalization by learning to pronounce": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Skip-Gram - Zipf + Uniform = Vector Additivity": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "LSTMEmbed: a Lexical and SemanTic Model of Embeddings with a bidirectional LSTM": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Neural Discourse Structure for Text Categorization": {
+        "is_accepted": true,
+        "citation_num": 92
+    },
+    "Semi-supervised Multitask Learning for Sequence Labeling": {
+        "is_accepted": true,
+        "citation_num": 194
+    },
+    "Exploiting Argument Information to Improve Event Detection via Supervised Attention Mechanisms": {
+        "is_accepted": true,
+        "citation_num": 164
+    },
+    "Context-Dependent Sentiment Analysis in User-Generated Videos": {
+        "is_accepted": true,
+        "citation_num": 81
+    },
+    "Evaluation Metrics for Machine Reading Comprehension: Prerequisite Skills and Readability": {
+        "is_accepted": true,
+        "citation_num": 75
+    },
+    "Naturalizing a Programming Language via Interactive Learning": {
+        "is_accepted": true,
+        "citation_num": 86
+    },
+    "What do Neural Machine Translation Models Learn about Morphology?": {
+        "is_accepted": true,
+        "citation_num": 80
+    },
+    "Linguistically Regularized LSTM for Sentiment Classification": {
+        "is_accepted": true,
+        "citation_num": 154
+    },
+    "Reading Wikipedia to Answer Open-Domain Questions": {
+        "is_accepted": true,
+        "citation_num": 171
+    },
+    "Morphology Generation for Statistical Machine Translation using Deep Learning Techniques": {
+        "is_accepted": true,
+        "citation_num": 209
+    },
+    "Transductive Non-linear Learning for Chinese Hypernym Prediction": {
+        "is_accepted": true,
+        "citation_num": 128
+    },
+    "MORSE: Semantic-ally Drive-n MORpheme SEgment-er": {
+        "is_accepted": true,
+        "citation_num": 51
+    },
+    "A Comparison of Robust Parsing Methods for HPSG": {
+        "is_accepted": true,
+        "citation_num": 230
+    },
+    "Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots": {
+        "is_accepted": true,
+        "citation_num": 46
+    },
+    "Bridge Text and Knowledge by Learning Multi-Prototype Entity Mention Embedding": {
+        "is_accepted": true,
+        "citation_num": 149
+    },
+    "Joint Modeling of Content and Discourse Relations in Dialogues": {
+        "is_accepted": true,
+        "citation_num": 92
+    },
+    "Deep Semantic Role Labeling: What Works and What’s Next": {
+        "is_accepted": true,
+        "citation_num": 194
+    },
+    "Polish evaluation dataset for compositional distributional semantics models": {
+        "is_accepted": true,
+        "citation_num": 164
+    },
+    "A New Approach for Measuring Sentiment Orientation based on Multi-Dimensional Vector Space": {
+        "is_accepted": true,
+        "citation_num": 81
+    },
+    "Improved Word Representation Learning with Sememes": {
+        "is_accepted": true,
+        "citation_num": 154
+    },
+    "Detecting Lexical Entailment in Context": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Detect Rumors in Microblog Posts Using Propagation Structure via Kernel Learning": {
+        "is_accepted": true,
+        "citation_num": 66
+    },
+    "A Weakly-Supervised Method for Jointly Embedding Concepts, Phrases, and Words": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings": {
+        "is_accepted": true,
+        "citation_num": 120
+    },
+    "Attention-over-Attention Neural Networks for Reading Comprehension": {
+        "is_accepted": true,
+        "citation_num": 200
+    },
+    "Event-based, Recursive Neural Networks for the Extraction and Aggregation of International Alliance Relations": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "How to evaluate word embeddings? On importance of data efficiency and simple supervised tasks": {
+        "is_accepted": true,
+        "citation_num": 85
+    },
+    "PositionRank: An Unsupervised Approach to Keyphrase Extraction from Scholarly Documents": {
+        "is_accepted": true,
+        "citation_num": 150
+    },
+    "Improved Neural Relation Detection for Knowledge Base Question Answering": {
+        "is_accepted": true,
+        "citation_num": 110
+    },
+    "Massively Multilingual Word Embeddings": {
+        "is_accepted": true,
+        "citation_num": 130
+    },
+    "Evaluating Creative Language Generation: The Case of Rap Lyric Ghostwriting": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "From Characters to Words to in Between: Do We Capture Morphology?": {
+        "is_accepted": true,
+        "citation_num": 95
+    },
+    "MinIE: Minimizing Facts in Open Information Extraction": {
+        "is_accepted": true,
+        "citation_num": 105
+    },
+    "TextFlow: A Text Similarity Measure based on Continuous Sequences": {
+        "is_accepted": true,
+        "citation_num": 90
+    },
+    "When a Red Herring is Not a Red Herring: Using Compositional Methods to Improve the Detection of Non-Compositional Phrases": {
+        "is_accepted": true,
+        "citation_num": 80
+    },
+    "App2Check and Tweet2Check: machine learning-based tools for Sentiment Analysis of Apps Reviews and Tweets": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Semi-supervised sequence tagging with bidirectional language models": {
+        "is_accepted": true,
+        "citation_num": 115
+    },
+    "Learning bilingual word embeddings with (almost) no bilingual data": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "Joint CTC/attention decoding for end-to-end speech recognition": {
+        "is_accepted": false,
+        "citation_num": null
+    },
+    "The Effect of Different Writing Tasks on Linguistic Style: A Case Study of the ROC Story Cloze Task": {
+        "is_accepted": false,
+        "citation_num": null
+    }
+}
