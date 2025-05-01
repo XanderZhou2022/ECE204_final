@@ -73,8 +73,8 @@ All the files in the `data` folder that were processed during the project:
   - Converts categorical variables (e.g., presentation format) into numerical values.
   - Saves the cleaned dataset as `cleaned_data.csv`.
 
-### 3. `ECE204_Final_Project.pdf`
-- **Purpose**: Provides a high-level overview of the project, including objectives, methodology, and key findings.
+### 3. `group3_slides.pdf`
+- **Purpose**: This is what we used in the Mar 29th.
 
 ---
 
