@@ -3,24 +3,56 @@
 ## Overview
 This project explores the relationship between peer review evaluations and the long-term citation impact of academic papers. By analyzing reviewer comments, evaluation scores, and paper metadata, the project aims to identify early indicators of scientific influence that emerge during the peer review process. The findings could provide valuable insights for editorial decisions and improve our understanding of what constitutes impactful research.
 
----
+## Describe of the dataset
 
-## Repository Structure
+### original data
 
-```
-ECE204_final/
-├── code/
-│   ├── final_report.ipynb       # Main analysis and report notebook
-│   ├── pre_processing.ipynb     # Data cleaning and preprocessing steps
-│   └── data/
-│       ├── all_title.txt        # List of paper titles used in the dataset
-│       ├── cleaned_data.csv     # Cleaned dataset used for analysis
-├── ECE204_Final_Project.pdf     # Slides providing an overview of the project
-└── README.md                    # Project documentation (this file)
+The original review data is sourced from JSON files located in the `original_data/data` directory. This directory is organized by conference name (e.g., `acl_2017`, `conll_2016`) and paper type (`train`, `dev`, `test`). Within each conference folder, the `reviews` subdirectory contains the JSON files, where each file corresponds to a specific paper. These JSON files include metadata such as the paper title, review scores (e.g., `IMPACT`, `SUBSTANCE`, `ORIGINALITY`), reviewer comments, and other evaluation metrics. This structure allows for systematic extraction and analysis of peer review data.
 
-```
+### processed data
 
----
+All the files in the `data` folder that were processed during the project:
+
+1. **`accepted_clean.pkl`**  
+   - **Description**: A cleaned dataset containing only accepted papers with all missing values removed and non-numerical fields converted to numerical values. The `comments` column has been dropped for simplicity.  
+   - **Purpose**: Used as the final cleaned dataset for analysis and modeling.
+
+2. **`accepted_clean.csv`**  
+   - **Description**: The same as `accepted_clean.pkl`, but as the required of the ECE204 we change the format to `.csv`.  
+   - **Purpose**: Provides a human-readable version of the cleaned dataset.
+
+3. **`acl_2017.pkl`**  
+   - **Description**: A DataFrame containing raw review data for papers from the ACL 2017 conference. This includes metadata, review scores, and reviewer comments extracted from JSON files.  
+   - **Purpose**: Serves as an intermediate dataset before filtering for accepted papers.
+
+4. **`acl_accepted.pkl`**  
+   - **Description**: A filtered dataset containing only accepted papers from ACL 2017, with citation counts added from the `citation.json` file.  
+   - **Purpose**: Used to analyze accepted papers from ACL 2017 and their citation impact.
+
+5. **`all_title.txt`**  
+   - **Description**: A text file containing the titles of all papers (from both ACL 2017 and CoNLL 2016) extracted from the JSON files.  
+   - **Purpose**: Used as input for querying citation and acceptance information via external tools like GPT and Google Scholar.
+
+6. **`citation.json`**  
+   - **Description**: A JSON file containing information about whether each paper was accepted and its citation count. This data was collected using GPT and Google Scholar based on the titles in `all_title.txt`.  
+   - **Purpose**: Provides citation and acceptance data to merge with the review datasets.
+
+7. **`cleaned_data.csv`**  
+   - **Description**: Another version of the cleaned dataset, similar to `accepted_clean.csv`, saved for compatibility with different tools.  
+   - **Purpose**: Used as the final dataset for analysis and modeling.
+
+8. **`combined_accepted.pkl`**  
+   - **Description**: A combined dataset of accepted papers from both ACL 2017 and CoNLL 2016, including citation counts and review scores.  
+   - **Purpose**: Used for unified analysis of accepted papers across both conferences.
+
+9. **`conll_2016.pkl`**  
+   - **Description**: A DataFrame containing raw review data for papers from the CoNLL 2016 conference. This includes metadata, review scores, and reviewer comments extracted from JSON files.  
+   - **Purpose**: Serves as an intermediate dataset before filtering for accepted papers.
+
+10. **`conll_accepted.pkl`**  
+    - **Description**: A filtered dataset containing only accepted papers from CoNLL 2016, with citation counts added from the `citation.json` file.  
+    - **Purpose**: Used to analyze accepted papers from CoNLL 2016 and their citation impact.
+
 
 ## Key Files and Notebooks
 
@@ -75,11 +107,7 @@ ECE204_final/
 
 1. **Install Dependencies**:
    - Python 3.9+
-   - Required libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost`
-
-   Install dependencies using:
-   
-   `pip install -r requirements.txt`
+   - Required libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost`   
 
 2. **Run Preprocessing**:
    - Open `pre_processing.ipynb` and execute all cells to clean and preprocess the data.
@@ -117,6 +145,23 @@ The dataset used in this project is from the PeerRead dataset:
 }
 ```
 
+### Statement on the Use of AI Assistance
+
+This report's structure and language were refined using GPT-based language models. The AI assistance was used to:
+
+1. Improve the organization and flow of the report sections
+2. Enhance clarity and readability through grammar and style improvements
+3. Help formulate clearer interpretations of the analytical results
+4. Ensure technical accuracy in describing machine learning approaches
+
+All data analysis, code implementation, and primary insights were developed independently prior to AI assistance. The use of AI was limited to improving the communication of results rather than generating the analytical findings themselves.
+
+Initial Prompt to GPT:
+```
+I am doing the data analysis of the review and citation, My project aims to predict the future citation impact of academic papers based on peer review text and metadata. I'll analyze how reviewer comments, evaluation scores, and paper characteristics correlate with long-term citation counts. The core problem I'm addressing is identifying early indicators of scientific impact hidden within the peer review process. I have already finish the main code and you need help me to finish checking the grammar and structure on the final report The final report notebook (final_report.ipynb) should contain the following sections in my code part.
+```
+
+
 ---
 
 ## Contributors
@@ -126,7 +171,3 @@ The dataset used in this project is from the PeerRead dataset:
 - **Qianyi Gong**
 
 ---
-
-## License
-
-This project is for educational purposes only. Please refer to the PeerRead dataset license for data usage terms.
