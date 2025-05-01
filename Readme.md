@@ -130,4 +130,3 @@ The dataset used in this project is from the PeerRead dataset:
 ## License
 
 This project is for educational purposes only. Please refer to the PeerRead dataset license for data usage terms.
-
